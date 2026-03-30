@@ -1,0 +1,423 @@
+﻿Passo 1:;MAXMULTIPLICADOR = 10;;
+Passo 2:;MAXMULTIPLICADO = 20;Variaveis;Valor
+Passo 3:;multiplicador que recebe 1 é menor ou igual 10? SIM;multiplicador;1
+Passo 4:;multiplicado que recebe 1 é menor ou igual 20? SIM;multiplicado;1
+Passo 5:;Imprima: 1x1=1;multiplicado;1
+Passo 6:;multiplicado que recebe 2 é menor ou igual 20? SIM;multiplicado;2
+Passo 7:;Imprima: 1x2=2;multiplicado;2
+Passo 8:;multiplicado que recebe 3 é menor ou igual 20? SIM;multiplicado;3
+Passo 9:;Imprima: 1x3=3;multiplicado;3
+Passo 10:;multiplicado que recebe 4 é menor ou igual 20? SIM;multiplicado;4
+Passo 11:;Imprima: 1x4=4;multiplicado;4
+Passo 12:;multiplicado que recebe 5 é menor ou igual 20? SIM;multiplicado;5
+Passo 13:;Imprima: 1x5=5;multiplicado;5
+Passo 14:;multiplicado que recebe 6 é menor ou igual 20? SIM;multiplicado;6
+Passo 15:;Imprima: 1x6=6;multiplicado;6
+Passo 16:;multiplicado que recebe 7 é menor ou igual 20? SIM;multiplicado;7
+Passo 17:;Imprima: 1x7=7;multiplicado;7
+Passo 18:;multiplicado que recebe 8 é menor ou igual 20? SIM;multiplicado;8
+Passo 19:;Imprima: 1x8=8;multiplicado;8
+Passo 20:;multiplicado que recebe 9 é menor ou igual 20? SIM;multiplicado;9
+Passo 21:;Imprima: 1x9=9;multiplicado;9
+Passo 22:;multiplicado que recebe 10 é menor ou igual 20? SIM;multiplicado;10
+Passo 23:;Imprima: 1x10=10;multiplicado;10
+Passo 24:;multiplicado que recebe 11 é menor ou igual 20? SIM;multiplicado;11
+Passo 25:;Imprima: 1x11=11;multiplicado;11
+Passo 26:;multiplicado que recebe 12 é menor ou igual 20? SIM;multiplicado;12
+Passo 27:;Imprima: 1x12=12;multiplicado;12
+Passo 28:;multiplicado que recebe 13 é menor ou igual 20? SIM;multiplicado;13
+Passo 29:;Imprima: 1x13=13;multiplicado;13
+Passo 30:;multiplicado que recebe 14 é menor ou igual 20? SIM;multiplicado;14
+Passo 31:;Imprima: 1x14=14;multiplicado;14
+Passo 32:;multiplicado que recebe 15 é menor ou igual 20? SIM;multiplicado;15
+Passo 33:;Imprima: 1x15=15;multiplicado;15
+Passo 34:;multiplicado que recebe 16 é menor ou igual 20? SIM;multiplicado;16
+Passo 35:;Imprima: 1x16=16;multiplicado;16
+Passo 36:;multiplicado que recebe 17 é menor ou igual 20? SIM;multiplicado;17
+Passo 37:;Imprima: 1x17=17;multiplicado;17
+Passo 38:;multiplicado que recebe 18 é menor ou igual 20? SIM;multiplicado;18
+Passo 39:;Imprima: 1x18=18;multiplicado;18
+Passo 40:;multiplicado que recebe 19 é menor ou igual 20? SIM;multiplicado;19
+Passo 41:;Imprima: 1x19=19;multiplicado;19
+Passo 42:;multiplicado que recebe 20 é menor ou igual 20? SIM;multiplicado;20
+Passo 43:;Imprima: 1x20=20;multiplicado;20
+Passo 44:;multiplicado que recebe 21 é menor ou igual 20? NÃO;multiplicado;21
+Passo 45:;multiplicador que recebe 2 é menor ou igual 10? SIM;multiplicador;2
+Passo 46:;multiplicado que recebe 1 é menor ou igual 20? SIM;multiplicado;1
+Passo 47:;Imprima: 2x1=2;multiplicado;1
+Passo 48:;multiplicado que recebe 2 é menor ou igual 20? SIM;multiplicado;2
+Passo 49:;Imprima: 2x2=4;multiplicado;2
+Passo 50:;multiplicado que recebe 3 é menor ou igual 20? SIM;multiplicado;3
+Passo 51:;Imprima: 2x3=6;multiplicado;3
+Passo 52:;multiplicado que recebe 4 é menor ou igual 20? SIM;multiplicado;4
+Passo 53:;Imprima: 2x4=8;multiplicado;4
+Passo 54:;multiplicado que recebe 5 é menor ou igual 20? SIM;multiplicado;5
+Passo 55:;Imprima: 2x5=10;multiplicado;5
+Passo 56:;multiplicado que recebe 6 é menor ou igual 20? SIM;multiplicado;6
+Passo 57:;Imprima: 2x6=12;multiplicado;6
+Passo 58:;multiplicado que recebe 7 é menor ou igual 20? SIM;multiplicado;7
+Passo 59:;Imprima: 2x7=14;multiplicado;7
+Passo 60:;multiplicado que recebe 8 é menor ou igual 20? SIM;multiplicado;8
+Passo 61:;Imprima: 2x8=16;multiplicado;8
+Passo 62:;multiplicado que recebe 9 é menor ou igual 20? SIM;multiplicado;9
+Passo 63:;Imprima: 2x9=18;multiplicado;9
+Passo 64:;multiplicado que recebe 10 é menor ou igual 20? SIM;multiplicado;10
+Passo 65:;Imprima: 2x10=20;multiplicado;10
+Passo 66:;multiplicado que recebe 11 é menor ou igual 20? SIM;multiplicado;11
+Passo 67:;Imprima: 2x11=22;multiplicado;11
+Passo 68:;multiplicado que recebe 12 é menor ou igual 20? SIM;multiplicado;12
+Passo 69:;Imprima: 2x12=24;multiplicado;12
+Passo 70:;multiplicado que recebe 13 é menor ou igual 20? SIM;multiplicado;13
+Passo 71:;Imprima: 2x13=26;multiplicado;13
+Passo 72:;multiplicado que recebe 14 é menor ou igual 20? SIM;multiplicado;14
+Passo 73:;Imprima: 2x14=28;multiplicado;14
+Passo 74:;multiplicado que recebe 15 é menor ou igual 20? SIM;multiplicado;15
+Passo 75:;Imprima: 2x15=30;multiplicado;15
+Passo 76:;multiplicado que recebe 16 é menor ou igual 20? SIM;multiplicado;16
+Passo 77:;Imprima: 2x16=32;multiplicado;16
+Passo 78:;multiplicado que recebe 17 é menor ou igual 20? SIM;multiplicado;17
+Passo 79:;Imprima: 2x17=34;multiplicado;17
+Passo 80:;multiplicado que recebe 18 é menor ou igual 20? SIM;multiplicado;18
+Passo 81:;Imprima: 2x18=36;multiplicado;18
+Passo 82:;multiplicado que recebe 19 é menor ou igual 20? SIM;multiplicado;19
+Passo 83:;Imprima: 2x19=38;multiplicado;19
+Passo 84:;multiplicado que recebe 20 é menor ou igual 20? SIM;multiplicado;20
+Passo 85:;Imprima: 2x20=40;multiplicado;20
+Passo 86:;multiplicado que recebe 21 é menor ou igual 20? NÃO;multiplicado;21
+Passo 87:;multiplicador que recebe 3 é menor ou igual 10? SIM;multiplicador;3
+Passo 88:;multiplicado que recebe 1 é menor ou igual 20? SIM;multiplicado;1
+Passo 89:;Imprima: 3x1=2;multiplicado;1
+Passo 90:;multiplicado que recebe 2 é menor ou igual 20? SIM;multiplicado;2
+Passo 91:;Imprima: 3x2=6;multiplicado;2
+Passo 92:;multiplicado que recebe 3 é menor ou igual 20? SIM;multiplicado;3
+Passo 93:;Imprima: 3x3=9;multiplicado;3
+Passo 94:;multiplicado que recebe 4 é menor ou igual 20? SIM;multiplicado;4
+Passo 95:;Imprima: 3x4=12;multiplicado;4
+Passo 96:;multiplicado que recebe 5 é menor ou igual 20? SIM;multiplicado;5
+Passo 97:;Imprima: 3x5=15;multiplicado;5
+Passo 98:;multiplicado que recebe 6 é menor ou igual 20? SIM;multiplicado;6
+Passo 99:;Imprima: 3x6=18;multiplicado;6
+Passo 100:;multiplicado que recebe 7 é menor ou igual 20? SIM;multiplicado;7
+Passo 101:;Imprima: 3x7=21;multiplicado;7
+Passo 102:;multiplicado que recebe 8 é menor ou igual 20? SIM;multiplicado;8
+Passo 103:;Imprima: 3x8=24;multiplicado;8
+Passo 104:;multiplicado que recebe 9 é menor ou igual 20? SIM;multiplicado;9
+Passo 105:;Imprima: 3x9=27;multiplicado;9
+Passo 106:;multiplicado que recebe 10 é menor ou igual 20? SIM;multiplicado;10
+Passo 107:;Imprima: 3x10=30;multiplicado;10
+Passo 108:;multiplicado que recebe 11 é menor ou igual 20? SIM;multiplicado;11
+Passo 109:;Imprima: 3x11=33;multiplicado;11
+Passo 110:;multiplicado que recebe 12 é menor ou igual 20? SIM;multiplicado;12
+Passo 111:;Imprima: 3x12=36;multiplicado;12
+Passo 112:;multiplicado que recebe 13 é menor ou igual 20? SIM;multiplicado;13
+Passo 113:;Imprima: 3x13=39;multiplicado;13
+Passo 114:;multiplicado que recebe 14 é menor ou igual 20? SIM;multiplicado;14
+Passo 115:;Imprima: 3x14=42;multiplicado;14
+Passo 116:;multiplicado que recebe 15 é menor ou igual 20? SIM;multiplicado;15
+Passo 117:;Imprima: 3x15=45;multiplicado;15
+Passo 118:;multiplicado que recebe 16 é menor ou igual 20? SIM;multiplicado;16
+Passo 119:;Imprima: 3x16=48;multiplicado;16
+Passo 120:;multiplicado que recebe 17 é menor ou igual 20? SIM;multiplicado;17
+Passo 121:;Imprima: 3x17=51;multiplicado;17
+Passo 122:;multiplicado que recebe 18 é menor ou igual 20? SIM;multiplicado;18
+Passo 123:;Imprima: 3x18=54;multiplicado;18
+Passo 124:;multiplicado que recebe 19 é menor ou igual 20? SIM;multiplicado;19
+Passo 125:;Imprima: 3x19=57;multiplicado;19
+Passo 126:;multiplicado que recebe 20 é menor ou igual 20? SIM;multiplicado;20
+Passo 127:;Imprima: 3x20=60;multiplicado;20
+Passo 128:;multiplicado que recebe 21 é menor ou igual 20? NÃO;multiplicado;21
+Passo 129:;multiplicador que recebe 4 é menor ou igual 10? SIM;multiplicador;4
+Passo 130:;multiplicado que recebe 1 é menor ou igual 20? SIM;multiplicado;1
+Passo 131:;Imprima: 4x1=4;multiplicado;1
+Passo 132:;multiplicado que recebe 2 é menor ou igual 20? SIM;multiplicado;2
+Passo 133:;Imprima: 4x2=8;multiplicado;2
+Passo 134:;multiplicado que recebe 3 é menor ou igual 20? SIM;multiplicado;3
+Passo 135:;Imprima: 4x3=12;multiplicado;3
+Passo 136:;multiplicado que recebe 4 é menor ou igual 20? SIM;multiplicado;4
+Passo 137:;Imprima: 4x4=16;multiplicado;4
+Passo 138:;multiplicado que recebe 5 é menor ou igual 20? SIM;multiplicado;5
+Passo 139:;Imprima: 4x5=20;multiplicado;5
+Passo 140:;multiplicado que recebe 6 é menor ou igual 20? SIM;multiplicado;6
+Passo 141:;Imprima: 4x6=24;multiplicado;6
+Passo 142:;multiplicado que recebe 7 é menor ou igual 20? SIM;multiplicado;7
+Passo 143:;Imprima: 4x7=28;multiplicado;7
+Passo 144:;multiplicado que recebe 8 é menor ou igual 20? SIM;multiplicado;8
+Passo 145:;Imprima: 4x8=32;multiplicado;8
+Passo 146:;multiplicado que recebe 9 é menor ou igual 20? SIM;multiplicado;9
+Passo 147:;Imprima: 4x9=36;multiplicado;9
+Passo 148:;multiplicado que recebe 10 é menor ou igual 20? SIM;multiplicado;10
+Passo 149:;Imprima: 4x10=40;multiplicado;10
+Passo 150:;multiplicado que recebe 11 é menor ou igual 20? SIM;multiplicado;11
+Passo 151:;Imprima: 4x11=44;multiplicado;11
+Passo 152:;multiplicado que recebe 12 é menor ou igual 20? SIM;multiplicado;12
+Passo 153:;Imprima: 4x12=48;multiplicado;12
+Passo 154:;multiplicado que recebe 13 é menor ou igual 20? SIM;multiplicado;13
+Passo 155:;Imprima: 4x13=52;multiplicado;13
+Passo 156:;multiplicado que recebe 14 é menor ou igual 20? SIM;multiplicado;14
+Passo 157:;Imprima: 4x14=56;multiplicado;14
+Passo 158:;multiplicado que recebe 15 é menor ou igual 20? SIM;multiplicado;15
+Passo 159:;Imprima: 4x15=60;multiplicado;15
+Passo 160:;multiplicado que recebe 16 é menor ou igual 20? SIM;multiplicado;16
+Passo 161:;Imprima: 4x16=64;multiplicado;16
+Passo 162:;multiplicado que recebe 17 é menor ou igual 20? SIM;multiplicado;17
+Passo 163:;Imprima: 4x17=68;multiplicado;17
+Passo 164:;multiplicado que recebe 18 é menor ou igual 20? SIM;multiplicado;18
+Passo 165:;Imprima: 4x18=72;multiplicado;18
+Passo 166:;multiplicado que recebe 19 é menor ou igual 20? SIM;multiplicado;19
+Passo 167:;Imprima: 4x19=76;multiplicado;19
+Passo 168:;multiplicado que recebe 20 é menor ou igual 20? SIM;multiplicado;20
+Passo 169:;Imprima: 4x20=80;multiplicado;20
+Passo 170:;multiplicado que recebe 21 é menor ou igual 20? NÃO;multiplicado;21
+Passo 171:;multiplicador que recebe 5 é menor ou igual 10? SIM;multiplicador;5
+Passo 172:;multiplicado que recebe 1 é menor ou igual 20? SIM;multiplicado;1
+Passo 173:;Imprima: 5x1=5;multiplicado;1
+Passo 174:;multiplicado que recebe 2 é menor ou igual 20? SIM;multiplicado;2
+Passo 175:;Imprima: 5x2=10;multiplicado;2
+Passo 176:;multiplicado que recebe 3 é menor ou igual 20? SIM;multiplicado;3
+Passo 177:;Imprima: 5x3=15;multiplicado;3
+Passo 178:;multiplicado que recebe 4 é menor ou igual 20? SIM;multiplicado;4
+Passo 179:;Imprima: 5x4=20;multiplicado;4
+Passo 180:;multiplicado que recebe 5 é menor ou igual 20? SIM;multiplicado;5
+Passo 181:;Imprima: 5x5=25;multiplicado;5
+Passo 182:;multiplicado que recebe 6 é menor ou igual 20? SIM;multiplicado;6
+Passo 183:;Imprima: 5x6=30;multiplicado;6
+Passo 184:;multiplicado que recebe 7 é menor ou igual 20? SIM;multiplicado;7
+Passo 185:;Imprima: 5x7=35;multiplicado;7
+Passo 186:;multiplicado que recebe 8 é menor ou igual 20? SIM;multiplicado;8
+Passo 187:;Imprima: 5x8=40;multiplicado;8
+Passo 188:;multiplicado que recebe 9 é menor ou igual 20? SIM;multiplicado;9
+Passo 189:;Imprima: 5x9=45;multiplicado;9
+Passo 190:;multiplicado que recebe 10 é menor ou igual 20? SIM;multiplicado;10
+Passo 191:;Imprima: 5x10=50;multiplicado;10
+Passo 192:;multiplicado que recebe 11 é menor ou igual 20? SIM;multiplicado;11
+Passo 193:;Imprima: 5x11=55;multiplicado;11
+Passo 194:;multiplicado que recebe 12 é menor ou igual 20? SIM;multiplicado;12
+Passo 195:;Imprima: 5x12=60;multiplicado;12
+Passo 196:;multiplicado que recebe 13 é menor ou igual 20? SIM;multiplicado;13
+Passo 197:;Imprima: 5x13=65;multiplicado;13
+Passo 198:;multiplicado que recebe 14 é menor ou igual 20? SIM;multiplicado;14
+Passo 199:;Imprima: 5x14=70;multiplicado;14
+Passo 200:;multiplicado que recebe 15 é menor ou igual 20? SIM;multiplicado;15
+Passo 201:;Imprima: 5x15=75;multiplicado;15
+Passo 202:;multiplicado que recebe 16 é menor ou igual 20? SIM;multiplicado;16
+Passo 203:;Imprima: 5x16=80;multiplicado;16
+Passo 204:;multiplicado que recebe 17 é menor ou igual 20? SIM;multiplicado;17
+Passo 205:;Imprima: 5x17=85;multiplicado;17
+Passo 206:;multiplicado que recebe 18 é menor ou igual 20? SIM;multiplicado;18
+Passo 207:;Imprima: 5x18=90;multiplicado;18
+Passo 208:;multiplicado que recebe 19 é menor ou igual 20? SIM;multiplicado;19
+Passo 209:;Imprima: 5x19=95;multiplicado;19
+Passo 210:;multiplicado que recebe 20 é menor ou igual 20? SIM;multiplicado;20
+Passo 211:;Imprima: 5x20=100;multiplicado;20
+Passo 212:;multiplicado que recebe 21 é menor ou igual 20? NÃO;multiplicado;21
+Passo 214:;multiplicador que recebe 6 é menor ou igual 10? SIM;multiplicador;6
+Passo 215:;multiplicado que recebe 1 é menor ou igual 20? SIM;multiplicado;1
+Passo 216:;Imprima: 6x1=6;multiplicado;1
+Passo 217:;multiplicado que recebe 2 é menor ou igual 20? SIM;multiplicado;2
+Passo 218:;Imprima: 6x2=12;multiplicado;2
+Passo 219:;multiplicado que recebe 3 é menor ou igual 20? SIM;multiplicado;3
+Passo 220:;Imprima: 6x3=18;multiplicado;3
+Passo 221:;multiplicado que recebe 4 é menor ou igual 20? SIM;multiplicado;4
+Passo 222:;Imprima: 6x4=24;multiplicado;4
+Passo 223:;multiplicado que recebe 5 é menor ou igual 20? SIM;multiplicado;5
+Passo 224:;Imprima: 6x5=30;multiplicado;5
+Passo 225:;multiplicado que recebe 6 é menor ou igual 20? SIM;multiplicado;6
+Passo 226:;Imprima: 6x6=36;multiplicado;6
+Passo 227:;multiplicado que recebe 7 é menor ou igual 20? SIM;multiplicado;7
+Passo 228:;Imprima: 6x7=42;multiplicado;7
+Passo 229:;multiplicado que recebe 8 é menor ou igual 20? SIM;multiplicado;8
+Passo 230:;Imprima: 6x8=48;multiplicado;8
+Passo 231:;multiplicado que recebe 9 é menor ou igual 20? SIM;multiplicado;9
+Passo 232:;Imprima: 6x9=54;multiplicado;9
+Passo 233:;multiplicado que recebe 10 é menor ou igual 20? SIM;multiplicado;10
+Passo 234:;Imprima: 6x10=60;multiplicado;10
+Passo 235:;multiplicado que recebe 11 é menor ou igual 20? SIM;multiplicado;11
+Passo 236:;Imprima: 6x11=66;multiplicado;11
+Passo 237:;multiplicado que recebe 12 é menor ou igual 20? SIM;multiplicado;12
+Passo 238:;Imprima: 6x12=72;multiplicado;12
+Passo 239:;multiplicado que recebe 13 é menor ou igual 20? SIM;multiplicado;13
+Passo 240:;Imprima: 6x13=78;multiplicado;13
+Passo 241:;multiplicado que recebe 14 é menor ou igual 20? SIM;multiplicado;14
+Passo 242:;Imprima: 6x14=84;multiplicado;14
+Passo 243:;multiplicado que recebe 15 é menor ou igual 20? SIM;multiplicado;15
+Passo 244:;Imprima: 6x15=90;multiplicado;15
+Passo 245:;multiplicado que recebe 16 é menor ou igual 20? SIM;multiplicado;16
+Passo 246:;Imprima: 6x16=96;multiplicado;16
+Passo 247:;multiplicado que recebe 17 é menor ou igual 20? SIM;multiplicado;17
+Passo 248:;Imprima: 6x17=102;multiplicado;17
+Passo 249:;multiplicado que recebe 18 é menor ou igual 20? SIM;multiplicado;18
+Passo 250:;Imprima: 6x18=108;multiplicado;18
+Passo 251:;multiplicado que recebe 19 é menor ou igual 20? SIM;multiplicado;19
+Passo 252:;Imprima: 6x19=114;multiplicado;19
+Passo 253:;multiplicado que recebe 20 é menor ou igual 20? SIM;multiplicado;20
+Passo 254:;Imprima: 6x20=120;multiplicado;20
+Passo 255:;multiplicado que recebe 21 é menor ou igual 20? NÃO;multiplicado;21
+Passo 256:;multiplicador que recebe 7 é menor ou igual 10? SIM;multiplicador;7
+Passo 257:;multiplicado que recebe 1 é menor ou igual 20? SIM;multiplicado;1
+Passo 258:;Imprima: 7x1=7;multiplicado;1
+Passo 259:;multiplicado que recebe 2 é menor ou igual 20? SIM;multiplicado;2
+Passo 260:;Imprima: 7x2=14;multiplicado;2
+Passo 261:;multiplicado que recebe 3 é menor ou igual 20? SIM;multiplicado;3
+Passo 262:;Imprima: 7x3=21;multiplicado;3
+Passo 263:;multiplicado que recebe 4 é menor ou igual 20? SIM;multiplicado;4
+Passo 264:;Imprima: 7x4=28;multiplicado;4
+Passo 265:;multiplicado que recebe 5 é menor ou igual 20? SIM;multiplicado;5
+Passo 266:;Imprima: 7x5=35;multiplicado;5
+Passo 267:;multiplicado que recebe 6 é menor ou igual 20? SIM;multiplicado;6
+Passo 268:;Imprima: 7x6=42;multiplicado;6
+Passo 269:;multiplicado que recebe 7 é menor ou igual 20? SIM;multiplicado;7
+Passo 270:;Imprima: 7x7=49;multiplicado;7
+Passo 271:;multiplicado que recebe 8 é menor ou igual 20? SIM;multiplicado;8
+Passo 272:;Imprima: 7x8=56;multiplicado;8
+Passo 273:;multiplicado que recebe 9 é menor ou igual 20? SIM;multiplicado;9
+Passo 274:;Imprima: 7x9=63;multiplicado;9
+Passo 275:;multiplicado que recebe 10 é menor ou igual 20? SIM;multiplicado;10
+Passo 276:;Imprima: 7x10=70;multiplicado;10
+Passo 277:;multiplicado que recebe 11 é menor ou igual 20? SIM;multiplicado;11
+Passo 278:;Imprima: 7x11=77;multiplicado;11
+Passo 279:;multiplicado que recebe 12 é menor ou igual 20? SIM;multiplicado;12
+Passo 280:;Imprima: 7x12=84;multiplicado;12
+Passo 281:;multiplicado que recebe 13 é menor ou igual 20? SIM;multiplicado;13
+Passo 282:;Imprima: 7x13=91;multiplicado;13
+Passo 283:;multiplicado que recebe 14 é menor ou igual 20? SIM;multiplicado;14
+Passo 284:;Imprima: 7x14=98;multiplicado;14
+Passo 285:;multiplicado que recebe 15 é menor ou igual 20? SIM;multiplicado;15
+Passo 286:;Imprima: 7x15=105;multiplicado;15
+Passo 287:;multiplicado que recebe 16 é menor ou igual 20? SIM;multiplicado;16
+Passo 288:;Imprima: 7x16=112;multiplicado;16
+Passo 289:;multiplicado que recebe 17 é menor ou igual 20? SIM;multiplicado;17
+Passo 290:;Imprima: 7x17=119;multiplicado;17
+Passo 291:;multiplicado que recebe 18 é menor ou igual 20? SIM;multiplicado;18
+Passo 292:;Imprima: 7x18=126;multiplicado;18
+Passo 293:;multiplicado que recebe 19 é menor ou igual 20? SIM;multiplicado;19
+Passo 294:;Imprima: 7x19=133;multiplicado;19
+Passo 295:;multiplicado que recebe 20 é menor ou igual 20? SIM;multiplicado;20
+Passo 296:;Imprima: 7x20=140;multiplicado;20
+Passo 297:;multiplicado que recebe 21 é menor ou igual 20? NÃO;multiplicado;21
+Passo 298:;multiplicador que recebe 8 é menor ou igual 10? SIM;multiplicador;8
+Passo 299:;multiplicado que recebe 1 é menor ou igual 20? SIM;multiplicado;1
+Passo 300:;Imprima: 8x1=8;multiplicado;1
+Passo 301:;multiplicado que recebe 2 é menor ou igual 20? SIM;multiplicado;2
+Passo 302:;Imprima: 8x2=16;multiplicado;2
+Passo 303:;multiplicado que recebe 3 é menor ou igual 20? SIM;multiplicado;3
+Passo 304:;Imprima: 8x3=24;multiplicado;3
+Passo 305:;multiplicado que recebe 4 é menor ou igual 20? SIM;multiplicado;4
+Passo 306:;Imprima: 8x4=32;multiplicado;4
+Passo 307:;multiplicado que recebe 5 é menor ou igual 20? SIM;multiplicado;5
+Passo 308:;Imprima: 8x5=40;multiplicado;5
+Passo 309:;multiplicado que recebe 6 é menor ou igual 20? SIM;multiplicado;6
+Passo 310:;Imprima: 8x6=48;multiplicado;6
+Passo 311:;multiplicado que recebe 7 é menor ou igual 20? SIM;multiplicado;7
+Passo 312:;Imprima: 8x7=56;multiplicado;7
+Passo 313:;multiplicado que recebe 8 é menor ou igual 20? SIM;multiplicado;8
+Passo 314:;Imprima: 8x8=64;multiplicado;8
+Passo 315:;multiplicado que recebe 9 é menor ou igual 20? SIM;multiplicado;9
+Passo 316:;Imprima: 8x9=72;multiplicado;9
+Passo 317:;multiplicado que recebe 10 é menor ou igual 20? SIM;multiplicado;10
+Passo 318:;Imprima: 8x10=80;multiplicado;10
+Passo 319:;multiplicado que recebe 11 é menor ou igual 20? SIM;multiplicado;11
+Passo 320:;Imprima: 8x11=88;multiplicado;11
+Passo 321:;multiplicado que recebe 12 é menor ou igual 20? SIM;multiplicado;12
+Passo 322:;Imprima: 8x12=96;multiplicado;12
+Passo 323:;multiplicado que recebe 13 é menor ou igual 20? SIM;multiplicado;13
+Passo 324:;Imprima: 8x13=104;multiplicado;13
+Passo 325:;multiplicado que recebe 14 é menor ou igual 20? SIM;multiplicado;14
+Passo 326:;Imprima: 8x14=112;multiplicado;14
+Passo 327:;multiplicado que recebe 15 é menor ou igual 20? SIM;multiplicado;15
+Passo 328:;Imprima: 8x15=120;multiplicado;15
+Passo 329:;multiplicado que recebe 16 é menor ou igual 20? SIM;multiplicado;16
+Passo 330:;Imprima: 8x16=128;multiplicado;16
+Passo 331:;multiplicado que recebe 17 é menor ou igual 20? SIM;multiplicado;17
+Passo 332:;Imprima: 8x17=136;multiplicado;17
+Passo 333:;multiplicado que recebe 18 é menor ou igual 20? SIM;multiplicado;18
+Passo 334:;Imprima: 8x18=144;multiplicado;18
+Passo 335:;multiplicado que recebe 19 é menor ou igual 20? SIM;multiplicado;19
+Passo 336:;Imprima: 8x19=152;multiplicado;19
+Passo 337:;multiplicado que recebe 20 é menor ou igual 20? SIM;multiplicado;20
+Passo 338:;Imprima: 8x20=160;multiplicado;20
+Passo 339:;multiplicado que recebe 21 é menor ou igual 20? NÃO;multiplicado;21
+Passo 340:;multiplicador que recebe 9 é menor ou igual 10? SIM;multiplicador;9
+Passo 341:;multiplicado que recebe 1 é menor ou igual 20? SIM;multiplicado;1
+Passo 342:;Imprima: 9x1=9;multiplicado;1
+Passo 343:;multiplicado que recebe 2 é menor ou igual 20? SIM;multiplicado;2
+Passo 344:;Imprima: 9x2=18;multiplicado;2
+Passo 345:;multiplicado que recebe 3 é menor ou igual 20? SIM;multiplicado;3
+Passo 346:;Imprima: 9x3=27;multiplicado;3
+Passo 347:;multiplicado que recebe 4 é menor ou igual 20? SIM;multiplicado;4
+Passo 348:;Imprima: 9x4=36;multiplicado;4
+Passo 349:;multiplicado que recebe 5 é menor ou igual 20? SIM;multiplicado;5
+Passo 350:;Imprima: 9x5=45;multiplicado;5
+Passo 351:;multiplicado que recebe 6 é menor ou igual 20? SIM;multiplicado;6
+Passo 352:;Imprima: 9x6=54;multiplicado;6
+Passo 353:;multiplicado que recebe 7 é menor ou igual 20? SIM;multiplicado;7
+Passo 354:;Imprima: 9x7=63;multiplicado;7
+Passo 355:;multiplicado que recebe 8 é menor ou igual 20? SIM;multiplicado;8
+Passo 356:;Imprima: 9x8=72;multiplicado;8
+Passo 357:;multiplicado que recebe 9 é menor ou igual 20? SIM;multiplicado;9
+Passo 358:;Imprima: 9x9=81;multiplicado;9
+Passo 359:;multiplicado que recebe 10 é menor ou igual 20? SIM;multiplicado;10
+Passo 360:;Imprima: 9x10=90;multiplicado;10
+Passo 361:;multiplicado que recebe 11 é menor ou igual 20? SIM;multiplicado;11
+Passo 362:;Imprima: 9x11=99;multiplicado;11
+Passo 363:;multiplicado que recebe 12 é menor ou igual 20? SIM;multiplicado;12
+Passo 364:;Imprima: 9x12=108;multiplicado;12
+Passo 365:;multiplicado que recebe 13 é menor ou igual 20? SIM;multiplicado;13
+Passo 366:;Imprima: 9x13=117;multiplicado;13
+Passo 367:;multiplicado que recebe 14 é menor ou igual 20? SIM;multiplicado;14
+Passo 368:;Imprima: 9x14=126;multiplicado;14
+Passo 369:;multiplicado que recebe 15 é menor ou igual 20? SIM;multiplicado;15
+Passo 370:;Imprima: 9x15=135;multiplicado;15
+Passo 371:;multiplicado que recebe 16 é menor ou igual 20? SIM;multiplicado;16
+Passo 372:;Imprima: 9x16=144;multiplicado;16
+Passo 373:;multiplicado que recebe 17 é menor ou igual 20? SIM;multiplicado;17
+Passo 374:;Imprima: 9x17=153;multiplicado;17
+Passo 375:;multiplicado que recebe 18 é menor ou igual 20? SIM;multiplicado;18
+Passo 376:;Imprima: 9x18=162;multiplicado;18
+Passo 377:;multiplicado que recebe 19 é menor ou igual 20? SIM;multiplicado;19
+Passo 378:;Imprima: 9x19=171;multiplicado;19
+Passo 379:;multiplicado que recebe 20 é menor ou igual 20? SIM;multiplicado;20
+Passo 380:;Imprima: 9x20=180;multiplicado;20
+Passo 381:;multiplicado que recebe 21 é menor ou igual 20? NÃO;multiplicado;21
+Passo 382:;multiplicador que recebe 10 é menor ou igual 10? SIM;multiplicador;10
+Passo 383:;multiplicado que recebe 1 é menor ou igual 20? SIM;multiplicado;1
+Passo 384:;Imprima: 10x1=10;multiplicado;1
+Passo 385:;multiplicado que recebe 2 é menor ou igual 20? SIM;multiplicado;2
+Passo 386:;Imprima: 10x2=20;multiplicado;2
+Passo 387:;multiplicado que recebe 3 é menor ou igual 20? SIM;multiplicado;3
+Passo 388:;Imprima: 10x3=30;multiplicado;3
+Passo 389:;multiplicado que recebe 4 é menor ou igual 20? SIM;multiplicado;4
+Passo 390:;Imprima: 10x4=40;multiplicado;4
+Passo 391:;multiplicado que recebe 5 é menor ou igual 20? SIM;multiplicado;5
+Passo 392:;Imprima: 10x5=50;multiplicado;5
+Passo 393:;multiplicado que recebe 6 é menor ou igual 20? SIM;multiplicado;6
+Passo 394:;Imprima: 10x6=60;multiplicado;6
+Passo 395:;multiplicado que recebe 7 é menor ou igual 20? SIM;multiplicado;7
+Passo 396:;Imprima: 10x7=70;multiplicado;7
+Passo 397:;multiplicado que recebe 8 é menor ou igual 20? SIM;multiplicado;8
+Passo 398:;Imprima: 10x8=80;multiplicado;8
+Passo 399:;multiplicado que recebe 9 é menor ou igual 20? SIM;multiplicado;9
+Passo 400:;Imprima: 10x9=90;multiplicado;9
+Passo 401:;multiplicado que recebe 10 é menor ou igual 20? SIM;multiplicado;10
+Passo 402:;Imprima: 10x10=100;multiplicado;10
+Passo 403:;multiplicado que recebe 11 é menor ou igual 20? SIM;multiplicado;11
+Passo 404:;Imprima: 10x11=110;multiplicado;11
+Passo 405:;multiplicado que recebe 12 é menor ou igual 20? SIM;multiplicado;12
+Passo 406:;Imprima: 10x12=120;multiplicado;12
+Passo 407:;multiplicado que recebe 13 é menor ou igual 20? SIM;multiplicado;13
+Passo 408:;Imprima: 10x13=130;multiplicado;13
+Passo 409:;multiplicado que recebe 14 é menor ou igual 20? SIM;multiplicado;14
+Passo 410:;Imprima: 10x14=140;multiplicado;14
+Passo 411:;multiplicado que recebe 15 é menor ou igual 20? SIM;multiplicado;15
+Passo 412:;Imprima: 10x15=150;multiplicado;15
+Passo 413:;multiplicado que recebe 16 é menor ou igual 20? SIM;multiplicado;16
+Passo 414:;Imprima: 10x16=160;multiplicado;16
+Passo 415:;multiplicado que recebe 17 é menor ou igual 20? SIM;multiplicado;17
+Passo 416:;Imprima: 10x17=170;multiplicado;17
+Passo 417:;multiplicado que recebe 18 é menor ou igual 20? SIM;multiplicado;18
+Passo 418:;Imprima: 10x18=180;multiplicado;18
+Passo 419:;multiplicado que recebe 19 é menor ou igual 20? SIM;multiplicado;19
+Passo 420:;Imprima: 10x19=190;multiplicado;19
+Passo 421:;multiplicado que recebe 20 é menor ou igual 20? SIM;multiplicado;20
+Passo 422:;Imprima: 10x20=200;multiplicado;20
+Passo 423:;multiplicado que recebe 21 é menor ou igual 20? NÃO;multiplicado;21
+Passo 424:;multiplicado que recebe 11 é menor ou igual 10? NÃO;multiplicador;11
